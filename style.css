@@ -1,0 +1,26 @@
+html{
+  background-color: rgb(231, 225, 225);
+}
+Nav{
+  border: 2px black solid;
+  border-radius: 20px;
+  padding: 10px;
+  width: 80%;
+  height: 30px;
+  font-size: 24px;
+ }
+ nav{
+  margin-left: 60px;
+ }
+ nav a{
+  text-decoration: none;
+  padding: 0 20px 0 20px;
+  color: blue;
+ }
+ #menu{
+  display:inline-flex;
+  margin-top: 30px;
+ }
+ #section1{
+  color: rgb(163, 101, 30);
+ }
