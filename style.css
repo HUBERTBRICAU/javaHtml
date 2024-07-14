@@ -1,13 +1,19 @@
 html{
+ 
   background-color: rgb(231, 225, 225);
 }
-Nav{
+
+
+Nav{ 
   border: 2px black solid;
   border-radius: 20px;
   padding: 10px;
   width: 80%;
   height: 30px;
   font-size: 24px;
+ }
+ #image{
+  cursor:pointer;
  }
  nav{
   margin-left: 60px;
@@ -23,4 +29,11 @@ Nav{
  }
  #section1{
   color:blue;
+ }
+ #monimage{
+  cursor:auto;
+ }
+ .textNature{
+  font-size: 1.4em;
+  margin: 25px 0 10px 30px;
  }
